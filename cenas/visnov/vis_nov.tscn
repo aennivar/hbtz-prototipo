@@ -1,0 +1,19 @@
+[gd_scene load_steps=2 format=3 uid="uid://c2ia31fvc3svi"]
+
+[sub_resource type="GDScript" id="GDScript_a4lwj"]
+script/source = "extends Node2D
+
+
+# Called when the node enters the scene tree for the first time.
+func _ready() -> void:
+	Dialogic.start(\"timeline\")
+	pass # Replace with function body.
+
+
+# Called every frame. 'delta' is the elapsed time since the previous frame.
+func _process(delta: float) -> void:
+	pass
+"
+
+[node name="VisNov" type="Node2D"]
+script = SubResource("GDScript_a4lwj")
