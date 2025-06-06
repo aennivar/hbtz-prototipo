@@ -48,6 +48,10 @@ choices/reveal_by_input=false
 save/autosave_delay=60.0
 save/encryption_on_exports_only=true
 text/autopauses={}
+glossary/default_case_sensitive=true
+layout/style_list=["res://custom_style.tres"]
+layout/default_style="res://custom_style.tres"
+variables={}
 
 [display]
 
