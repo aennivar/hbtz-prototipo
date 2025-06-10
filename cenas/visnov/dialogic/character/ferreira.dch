@@ -8,20 +8,156 @@
 "sound_moods": {},
 "style": "custom_style"
 },
-&"default_portrait": "New portrait",
+&"default_portrait": "apontaAstuto",
 &"description": "Guitarrista, protagonista",
 &"display_name": "Ferreira",
 &"mirror": false,
 &"nicknames": [""],
 &"offset": Vector2(0, 0),
 &"portraits": {
-"New portrait": {
+"apontaAstuto": {
 "export_overrides": {
-"image": ""
+"image": "\"res://assets/tails/apontaAstuto.png\""
+},
+"ignore_char_scale": false,
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.75,
+"scene": ""
+},
+"apontaAvisando": {
+"export_overrides": {
+"image": "\"res://assets/tails/apontaAvisando.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
-"scale": 1,
+"scale": 0.75,
+"scene": ""
+},
+"coradoAhaha": {
+"export_overrides": {
+"image": "\"res://assets/tails/coradoAhaha.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.75,
+"scene": ""
+},
+"destemido": {
+"export_overrides": {
+"image": "\"res://assets/tails/destemido.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.75,
+"scene": ""
+},
+"destemidoWaaa": {
+"export_overrides": {
+"image": "\"res://assets/tails/destemidoWaaa.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.75,
+"scene": ""
+},
+"neutroContente": {
+"export_overrides": {
+"image": "\"res://assets/tails/neutroContente.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.75,
+"scene": ""
+},
+"neutroDescontente": {
+"export_overrides": {
+"image": "\"res://assets/tails/neutroDescontente.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.75,
+"scene": ""
+},
+"neutroExplicativo": {
+"export_overrides": {
+"image": "\"res://assets/tails/neutroExplicativo.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.75,
+"scene": ""
+},
+"nuoooou": {
+"export_overrides": {
+"image": "\"res://assets/tails/nuoooou.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.75,
+"scene": ""
+},
+"pensaHmmm": {
+"export_overrides": {
+"image": "\"res://assets/tails/pensaHmmm.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.75,
+"scene": ""
+},
+"pensaOlhando": {
+"export_overrides": {
+"image": "\"res://assets/tails/pensaOlhando.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.75,
+"scene": ""
+},
+"que": {
+"export_overrides": {
+"image": "\"res://assets/tails/que.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.75,
+"scene": ""
+},
+"shrugFeliz": {
+"export_overrides": {
+"image": "\"res://assets/tails/shrugFeliz.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.75,
+"scene": ""
+},
+"shrugMorno": {
+"export_overrides": {
+"image": "\"res://assets/tails/shrugMorno.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.75,
+"scene": ""
+},
+"shrugPreocupado": {
+"export_overrides": {
+"image": "\"res://assets/tails/shrugPreocupado.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.75,
+"scene": ""
+},
+"yikesGAH": {
+"export_overrides": {
+"image": "\"res://assets/tails/yikesGAH.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.75,
 "scene": ""
 }
 },

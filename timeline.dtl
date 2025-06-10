@@ -1,4 +1,32 @@
-It all begins...
-...with one
-join ferreira center
-ferreira: ...aopa
+[background arg="res://assets/bg/505ec6f53a2f22c68d722d850143ac95af0c7700_hq.jpg" fade="0.0"]
+descrição longa de um sonho abstrato
+[wait time="1.0" hide_text="false"]
+[background arg="res://assets/bg/quartoNoite.jpg" fade="0.0"]
+join ferreira right
+ferreira (yikesGAH): Ah!
+ferreira (shrugPreocupado): Caraca... um sonho...
+ferreira (shrugMorno): ...mais um.
+ferreira (pensaHmmm): Acho que eu escutei...
+[wait time="1.0"]
+- um resquício de melodia?
+	ferreira (pensaOlhando): Pô, como que era?
+	ferreira (pensaHmmm): Tinha um acorde meio... morno?
+	ferreira (apontaAvisando): Deixa eu pegar a guitarra.
+	leave ferreira
+	*pega a guitarra*
+	join ferreira (pensaHmmm) right
+	ferreira (pensaHmmm): Era meio...
+	ferreira (pensaHmmm): ...assim?
+	ferreira (apontaAvisando): Não, com certeza era mais agitado.
+	ferreira (pensaHmmm): ....
+	[wait time="2.0"]
+	ferreira (neutroExplicativo): Ou era mais fria que isso?
+	ferreira (nuoooou): Hnnngh, que saco, eu não tô lembrando!
+- a porta da cozinha bater?
+	ferreira (que): Caraca.
+	ferreira (pensaHmmm): Pera, a cozinha não tem porta.
+	ferreira (shrugMorno): Nossa, nem a minha cabeça tá me deixando descansar.
+ferreira (shrugMorno): Se pá eu só devia voltar a dormir.
+ferreira (shrugPreocupado): Que chatice... eu levanto daqui há três horas.
+- .....e se eu tentasse lembrar de novo?
+- Puta merda, amanhã vai ser foda...

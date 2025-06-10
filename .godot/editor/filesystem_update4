@@ -1,4 +1,5 @@
+res://timeline.dtl
+res://cenas/visnov/vis_nov.tscn
 res://custom_style.tres
-res://cenas/interface/menu_prin.gd
-res://default_bus_layout.tres
+res://cenas/visnov/dialogic/character/ferreira.dch
 res://cenas/interface/menu_prin.tscn

@@ -36,11 +36,11 @@ text/advance_delay=0.1
 text/autoadvance_per_character_delay=0.1
 text/autoadvance_ignored_characters_enabled=true
 audio/max_channels=4.0
-animations/join_default_length=0.5
-animations/join_default_wait=true
-animations/leave_default_length=0.5
-animations/leave_default_wait=true
-animations/cross_fade_default_length=0.5
+animations/join_default_length=0.0
+animations/join_default_wait=false
+animations/leave_default_length=0.0
+animations/leave_default_wait=false
+animations/cross_fade_default_length=0.0
 choices/autofocus_first=true
 choices/delay=0.2
 choices/reveal_delay=0
@@ -52,6 +52,8 @@ glossary/default_case_sensitive=true
 layout/style_list=["res://custom_style.tres"]
 layout/default_style="res://custom_style.tres"
 variables={}
+animations/join_default="Instant In"
+animations/leave_default="Instant Out"
 
 [display]
 
