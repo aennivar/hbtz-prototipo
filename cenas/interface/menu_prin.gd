@@ -3,7 +3,7 @@ extends Control
 var level: int=1
 
 func _ready() -> void:
-	$CenterContainer/BotoesPrin/play.grab_focus()
+	$CenterContainer/BotoesPrin/jogar.grab_focus()
 	$CenterContainer/MenuConfig/telaCheia.button_pressed = true if DisplayServer.window_get_mode(DisplayServer.WINDOW_MODE_EXCLUSIVE_FULLSCREEN) else false
 	$CenterContainer/MenuConfig/sliderVolMaster.value = db_to_linear(AudioServer.get_bus_volume_db(AudioServer.get_bus_index("Master")))
 	$CenterContainer/MenuConfig/sliderVolMusica.value = db_to_linear(AudioServer.get_bus_volume_db(AudioServer.get_bus_index("MUSIC")))
